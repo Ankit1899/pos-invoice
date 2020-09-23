@@ -1,0 +1,92 @@
+body {
+   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue","Fira Sans",Ubuntu,Oxygen,"Oxygen Sans",Cantarell,"Droid Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Emoji","Segoe UI Symbol","Lucida Grande",Helvetica,Arial,sans-serif;
+}
+.login-box {
+    border: 1px solid black;
+    position: absolute;
+    width: 400px;
+    height: 390px;
+    top: 22%;
+    left: 35%;
+    border-radius: 5px !important;
+    box-shadow: 10px 10px 20px lightgray;
+}
+
+.login-box h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10%;
+    color: rgba(0,0,0,0.7);
+}
+
+.input {
+    text-align: center;
+    
+}
+
+.input input {
+    border-radius: 4px !important;
+	background:none;
+	color: black; 
+    outline: none;
+    border: 1px solid black;
+	font-size: 18px;
+	width: 80%;
+    padding: 2%;
+	margin: 10px 8px;
+}
+
+.input input::placeholder {
+    font-size: 15px;
+}
+
+.input input[type=checkbox] {
+    margin-left: 7.5%;
+}
+
+.check {
+    width: 80%;
+    margin-left: 6.5%;
+    margin-bottom: 4%;
+}
+
+
+ input[type=submit] {
+    width: 80%;
+    padding: 2%;
+	margin: 0% 10%;
+    font-size: 18px;
+    color: #fff; 
+    background-color: #0073b1;  
+    margin-bottom: 4%;
+    outline: none;
+     
+}
+
+.signup {
+    width: 80%;
+    margin: 0% 10%;
+}
+
+.signup a {
+    text-decoration: none;
+    color: #0073b1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
